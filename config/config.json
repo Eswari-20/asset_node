@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "harish",
+    "password": "Digit@l456",
+    "database": "asset_mgmt",
+    "host": "202.53.92.35",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "harish",
+    "password": "Digit@l456",
+    "database": "asset_mgmt",
+    "host": "202.53.92.37",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "harish",
+    "password": "Digit@l456",
+    "database": "asset_mgmt",
+    "host": "202.53.92.37",
+    "dialect": "mysql"
+  }
+}
